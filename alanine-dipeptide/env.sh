@@ -15,7 +15,7 @@ export NODELOC=$LOCAL
 export USE_LOCAL_SCRATCH=1
 
 #conda activate openmm
-conda activate drug-design2025_weha
+conda activate drug-design2025
 #conda activate emergency-westpa
 
 # Explicitly name our simulation root directory
