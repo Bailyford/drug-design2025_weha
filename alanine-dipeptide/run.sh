@@ -9,7 +9,7 @@
 #SBATCH --cluster=teach
 ##SBATCH --mail-type=FAIL,COMPLETE
 ##SBATCH --partition=lchong
-##SBATCH --partition=
+##SBATCH --partition=gpu
 
 # run.sh
 #
