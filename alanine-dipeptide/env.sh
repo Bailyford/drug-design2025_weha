@@ -14,9 +14,9 @@ echo $AMBERHOME/bin/pmemd.cuda
 export NODELOC=$LOCAL
 export USE_LOCAL_SCRATCH=1
 
-#conda activate openmm
-conda activate drug-design2025
-#conda activate emergency-westpa
+#conda activate openmm-fix
+source ~/drug-design2025/bin/activate
+#source ~/drug-design2025_weha/bin/activate
 
 # Explicitly name our simulation root directory
 if [[ -z "$WEST_SIM_ROOT" ]]; then
