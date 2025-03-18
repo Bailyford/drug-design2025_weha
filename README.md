@@ -22,7 +22,7 @@ A repository with Drug Design 2025 Class Files
 *	If Firefox, make sure Enhanced Tracking Protection is off (little shield icon next to URL)
 
 ## Activating environment
-* If you already made an environment in a previous lab (under ``drug_design2025``, instead of ``drug_design2025_weha``), run ``source ~/drug-design2025/activate_env.sh`` instead of the following step.
+* If you already made an environment in a previous lab (under ``drug_design2025``, instead of ``drug_design2025_weha``), run ``source ~/drug-design2025/activate_env.sh`` or ``source ~/drug-design2025_weha/activate_env.sh`` instead of the following step.
 3.	After everything is done, you should be in ``~/drug-design2025_weha``
 * A virtual environment called ``drug-design2025_weha`` is made in ``~/``
 * To use venv, select the correct kernel (Top right of Notebook) or run ``source ~/drug-design2025_weha/activate_env.sh`` (Terminal)
